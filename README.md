@@ -5,7 +5,6 @@ Ionic Project with Token Based Restful APIs.
 
 <table><tr>
 <td width="25%">
-Welcome page
 <img src="http://i.imgur.com/tNmu7Ce.png" width="200" alt="Ionic 3 and Angular 4 Create Welcome page with Login and Logout">
 </td>
 
