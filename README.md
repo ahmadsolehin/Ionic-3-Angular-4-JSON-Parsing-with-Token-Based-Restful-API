@@ -25,7 +25,7 @@ Execute following commands to run this application.
 
 
 ```
-$ git clone https://github.com/srinivastamada/ionic-restful-authentication.git
+$ git clone https://github.com/ahmadsolehin/Ionic-3-Angular-4-JSON-Parsing-with-Token-Based-Restful-API.git
 $ cd ionic-restful-authentication
 $ npm install
 $ ionic serve
