@@ -8,14 +8,12 @@ Ionic Project with Token Based Restful APIs.
 Welcome page
 <img src="http://i.imgur.com/tNmu7Ce.png" width="200" alt="Ionic 3 and Angular 4 Create Welcome page with Login and Logout">
 </td>
-<td width="25%">
-Signup Page
-</td>
-<td width="25%">
-Home page
-</td>
+
 
 </tr></table>
+
+![nn](https://user-images.githubusercontent.com/12325386/28292850-b2bcfac2-6b83-11e7-83c4-f97c728342c3.JPG)
+
 
 Install Node JS Software
 
