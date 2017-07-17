@@ -48,4 +48,3 @@ $ ionic build android
 
 ```
 
-More Info Tutorial: <a href="http://www.9lessons.info/2017/06/ionic-angular-php-login-restful-api.html">Ionic 3 and Angular 4: PHP Restful API User Authentication for Login and Signup.</a>
